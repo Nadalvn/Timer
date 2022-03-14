@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-image: url("25d6aebed529d43f24bf777f4f17319c.jpg");
+}
+header{
+    font-size: 100px;
+    font-family: Comic Sans MS;
+    color:lightcyan;
+}
+.btn{
+    height: 100px;
+    width: 240px;
+    font-size: 35px;
+    background-color: lightblue;
+    border-width: 3px;
+    border-radius: 30px;   
+    font-family: Comic Sans MS;
+}
